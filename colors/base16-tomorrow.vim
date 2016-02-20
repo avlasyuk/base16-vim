@@ -266,6 +266,7 @@ call <sid>hi("phpParent",          s:gui05, "", s:cterm05, "", "")
 " Python highlighting
 call <sid>hi("pythonOperator",  s:gui0E, "", s:cterm0E, "", "")
 call <sid>hi("pythonRepeat",    s:gui0E, "", s:cterm0E, "", "")
+call <sid>hi("pythonSelf",      s:gui0F, "", s:cterm0F, "", "")
 
 " Ruby highlighting
 call <sid>hi("rubyAttribute",               s:gui0D, "", s:cterm0D, "", "")
